@@ -17,7 +17,7 @@
 ```python
 print "Hello World"
 input("How are you")
-print("I'm fine,And you?")
+print "I'm fine,And you?"
 ```
 
 ### 博客列表
