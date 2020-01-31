@@ -14,6 +14,11 @@
 - C++
 - HTML5 CSS3 JavaScript
 
+```python
+print "Hello World"
+input("How are you")
+```
+
 ## 博客列表
 
 ---暂时没有博客哦！--
