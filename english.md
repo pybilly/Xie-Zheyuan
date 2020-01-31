@@ -1,34 +1,37 @@
-# Xie zheyuan's home page
-## Personal information
->Xie Zheyuan, a young programmer
+<h1>Xie zheyuan&#39;s home page</h1>
 
-QQ: * * 3523400344**
+<h2>Personal information</h2>
 
-**E-mail:billy03282@163.com * * 
+<blockquote><p>Xie Zheyuan, a young programmer</p></blockquote>
 
-Proficient in the following languages
+<p>QQ: <em> </em> 3523400344**</p>
+
+<p>**E-mail:billy03282@163.com <em> </em> </p>
+
+<p>Proficient in the following languages
 - Python
 - C + +
-- HTML CSS 3 JavaScript
+- HTML CSS 3 JavaScript</p>
 
-``` python
-Print "Hello World"
-Input (" How you ")
-Print "I 'm fine"
-```
-### Blog list
+<p><code>
+Print &quot;Hello World&quot;
+Input (&quot; How you &quot;)
+Print &quot;I &#39;m fine&quot;
+</code></p>
 
--- no blog at the moment!--
+<h3>Blog list</h3>
 
-### file
+<p>-- no blog at the moment!--</p>
 
-- no files at the moment!--
+<h3>file</h3>
 
-### dynamic:
+<ul><li>no files at the moment!--</li></ul>
 
-**2020/1/30** : I created this page!
+<h3>dynamic:</h3>
 
-<hr/>
+<p><strong>2020/1/30</strong> : I created this page!</p>
 
-COPYRIGHT &copy;Xie zheyuan copyright, all rights reserved!
-&copy;Xie Zheyuan Allrights reversed.
+<p>&lt;hr/&gt;</p>
+
+<p>COPYRIGHT &copy;Xie zheyuan copyright, all rights reserved!
+&copy;Xie Zheyuan Allrights reversed.</p>
