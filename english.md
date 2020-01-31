@@ -13,11 +13,11 @@
 - C + +
 - HTML CSS 3 JavaScript</p>
 
-<p><code>
+<p><pre>
 Print &quot;Hello World&quot;
 Input (&quot; How you &quot;)
 Print &quot;I &#39;m fine&quot;
-</code></p>
+</pre></p>
 
 <h3>Blog list</h3>
 
