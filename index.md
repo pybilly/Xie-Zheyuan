@@ -20,6 +20,8 @@ print "Hello World"
 input("How are you")
 print "I'm fine"
 ```
+### 精品教程
+<a href="jiaocheng/python/" target="_self">Python教程</a>
 
 ### 博客列表
 
