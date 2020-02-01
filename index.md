@@ -21,7 +21,7 @@ input("How are you")
 print "I'm fine"
 ```
 ### 精品教程
-<a href="jiaocheng/python/" target="_self">Python教程</a>
+<a href="jiaocheng_python.html" target="_self">Python教程</a>
 
 ### 博客列表
 
