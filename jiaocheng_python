@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.6.1 -->
+<title>谢哲源的主页 | Xie-Zheyuan</title>
+<meta name="generator" content="Jekyll v3.8.5" />
+<meta property="og:title" content="谢哲源的主页" />
+<meta property="og:locale" content="en_US" />
+<link rel="canonical" href="https://pybilly.github.io/Xie-Zheyuan/" />
+<meta property="og:url" content="https://pybilly.github.io/Xie-Zheyuan/" />
+<meta property="og:site_name" content="Xie-Zheyuan" />
+<script type="application/ld+json">
+{"headline":"谢哲源的主页","@type":"WebSite","url":"https://pybilly.github.io/Xie-Zheyuan/","name":"Xie-Zheyuan","@context":"https://schema.org"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <link rel="stylesheet" href="/Xie-Zheyuan/assets/css/style.css?v=dfaef2c9464d93356d8f34f6b3338382ca54f18b">
+  </head>
+  <body>
+    <section class="page-header">
+      <h1 class="project-name">谢哲源的Python教程</h1>
+      <h2 class="project-tagline"></h2>
+      
+      </section>
+   <h1 id="谢哲源的Python教程">谢哲源的Python教程</h1>
+   <h3 id="目录">目录</h3>
+   <ul>
+   <Li><a href="#io">IO</a></Li>
+   </ul>
+   <h2 id="IO">IO</h2>
+  <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+  <span class="nb">print</span>(*str,seq,ends,...)
+  </code></pre></div></div>
+  
+  <strong>str</strong>:要打印的字符串
+  <br />
+  <strong>seq</strong>:分隔符，默认为" "
+  <br />
+  <strong>ends</strong>结束符,默认为"\n"
+  <hr />
+   <div class="language-python highlighter-rouge"><div class="highlight"><pre class="highlight"><code>
+  <span class="nb">input</span>([prompt])
+  </code></pre></div></div>
+  
+  <strong>prompt</strong>:提示符，默认为""
